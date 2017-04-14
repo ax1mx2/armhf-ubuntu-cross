@@ -1,4 +1,4 @@
-FROM docker.io/armhf-ubuntu:16.04
+FROM docker.io/armv7/armhf-ubuntu:16.04
 
 ENV QEMU_EXECVE 1
 
